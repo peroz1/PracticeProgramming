@@ -28,7 +28,14 @@ To propose new resources go to Issues page
   - [Exercism](http://exercism.io/) - excersises sorted by various languages
   - [HackerRank](https://www.hackerrank.com/)
   - [LeetCode](https://leetcode.com/)
-   
+  - [Practice Ruby](https://repl.it/community/classrooms/53963) 
+  - [CryptoPals](https://cryptopals.com/)
+  - [Gophercises](https://gophercises.com/) - Go practice
+  - [Edabit](https://edabit.com/)
+  - [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
+  - [Kattis](https://open.kattis.com/)
+  - [Advent of Code](http://adventofcode.com/)
+
 ## Books
   - [Abramyan Problem Book](https://open-edu.sfedu.ru/files/Abramyan-ProblemBook.pdf) - PDF
 ## On Github
