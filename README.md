@@ -26,6 +26,7 @@ To propose new resources go to Issues page
   - [Code Forces](http://codeforces.com/) - tasks from programming competitions and virtual competitions
    
 ## Books
+  - [Abramyan Problem Book](https://open-edu.sfedu.ru/files/Abramyan-ProblemBook.pdf) - PDF
 ## On Github
   - [Functional Programming Practice](https://gist.github.com/oskarkv/3168ea3f8d7530ccd94c97c19aafe266)
   - [Karan's Projects](https://github.com/karan/Projects)
