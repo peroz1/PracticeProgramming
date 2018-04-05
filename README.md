@@ -37,7 +37,6 @@ To propose new resources go to Issues page
 ## Subreddits
   - [Daily Programmer](https://www.reddit.com/r/dailyprogrammer)
   - [Python Projects 2](https://www.reddit.com/r/PythonProjects2/) - don't know what happened to the first one
-  - [Beginner Projects](https://www.reddit.com/r/beginnerprojects/)
-    Also [their project list](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit) if you don't want to search through the subreddit
+  - [Beginner Projects](https://www.reddit.com/r/beginnerprojects/), also [their project list](https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/edit) if you don't want to search through the subreddit
   
   
