@@ -8,7 +8,7 @@ To propose new resources go to Issues page
 
 - [Websites](https://github.com/peroz1/PracticeProgramming#websites)
 - [Books](https://github.com/peroz1/PracticeProgramming#books)
-- [On Github](https://github.com/peroz1/PracticeProgramming#ongithub)
+- [On Github](https://github.com/peroz1/PracticeProgramming#on%20github)
 - [Subreddits](https://github.com/peroz1/PracticeProgramming#subreddits)
 
 ## Websites
