@@ -23,7 +23,10 @@ To propose new resources go to Issues page
   - [CodeBat](http://codingbat.com/java) - for begginers in Jave or Python
   - [CodeGolf](https://codegolf.stackexchange.com/) - for posting programming puzzles
   - [Ruby Quiz](http://rubyquiz.com/) - ruby practices
-  - [Code Forces](http://codeforces.com/) - tasks from programming competitions and virtual competitions
+  - [CodeForces](http://codeforces.com/) - tasks from programming competitions and virtual competitions
+  - [PyBites](https://pybit.es/pages/challenges.html) - various python challanges and articles
+  - [Exercism](http://exercism.io/) - excersises sorted by various languages
+  - [HackerRank](https://www.hackerrank.com/)
    
 ## Books
   - [Abramyan Problem Book](https://open-edu.sfedu.ru/files/Abramyan-ProblemBook.pdf) - PDF
@@ -32,4 +35,6 @@ To propose new resources go to Issues page
   - [Karan's Projects](https://github.com/karan/Projects)
 ## Subreddits
   - [Daily Programmer](https://www.reddit.com/r/dailyprogrammer)
+  - [Python Projects 2](https://www.reddit.com/r/PythonProjects2/) - don't know what happened to the first one
+  
   
