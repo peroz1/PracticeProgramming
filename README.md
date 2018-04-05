@@ -8,16 +8,23 @@ To propose new resources go to Issues page
 
 - [Websites](https://github.com/peroz1/PracticeProgramming#websites)
 - [Books](https://github.com/peroz1/PracticeProgramming#books)
-- [On Github](https://github.com/peroz1/PracticeProgramming#on%20github)
+- [On Github](https://github.com/peroz1/PracticeProgramming#on-github)
 - [Subreddits](https://github.com/peroz1/PracticeProgramming#subreddits)
 
 ## Websites
   - [Project Euler](https://projecteuler.net/) - Mathematical programming
+  - [Code Abby](http://www.codeabbey.com/) - Similar to Project Euler but not exclusive to mathematics
+  - [Rosalind](http://rosalind.info) - bioinformatic practices
+  - [Code by Math](http://www.codebymath.com/index.php/welcome/challenges) - another math based set of challenges
   - [500 Data Structure and Algorithms problems](http://www.techiedelight.com/list-of-problems/)
   - [Martyr2s Mega Project Idea List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
   - [49 games clones you can make](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
-  
-  
+  - [Nifty CS Assigment Ideas](http://nifty.stanford.edu/) - Mostly for CS professors
+  - [CodeBat](http://codingbat.com/java) - for begginers in Jave or Python
+  - [CodeGolf](https://codegolf.stackexchange.com/) - for posting programming puzzles
+  - [Ruby Quiz](http://rubyquiz.com/) - ruby practices
+  - [Code Forces](http://codeforces.com/) - tasks from programming competitions and virtual competitions
+   
 ## Books
 ## On Github
   - [Functional Programming Practice](https://gist.github.com/oskarkv/3168ea3f8d7530ccd94c97c19aafe266)
