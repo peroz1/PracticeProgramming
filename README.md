@@ -27,6 +27,7 @@ To propose new resources go to Issues page
   - [PyBites](https://pybit.es/pages/challenges.html) - various python challanges and articles
   - [Exercism](http://exercism.io/) - excersises sorted by various languages
   - [HackerRank](https://www.hackerrank.com/)
+  - [LeetCode](https://leetcode.com/)
    
 ## Books
   - [Abramyan Problem Book](https://open-edu.sfedu.ru/files/Abramyan-ProblemBook.pdf) - PDF
