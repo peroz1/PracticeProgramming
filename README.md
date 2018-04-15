@@ -38,6 +38,7 @@ To propose new resources go to Issues page
 
 ## Books
   - [Abramyan Problem Book](https://open-edu.sfedu.ru/files/Abramyan-ProblemBook.pdf) - PDF
+  - [The Programmers Idea Book](http://www.coderslexicon.com/downloads/the-programmers-idea-book/) - $25, made by the same person who made Martyr2s Mega Project Idea List
 ## On Github
   - [Functional Programming Practice](https://gist.github.com/oskarkv/3168ea3f8d7530ccd94c97c19aafe266)
   - [Karan's Projects](https://github.com/karan/Projects)
