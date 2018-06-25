@@ -35,6 +35,7 @@ To propose new resources go to Issues page
   - [RosettaCode](http://rosettacode.org/wiki/Rosetta_Code)
   - [Kattis](https://open.kattis.com/)
   - [Advent of Code](http://adventofcode.com/)
+  - [Interviewbit](https://www.interviewbit.com/)
 
 ## Books
   - [Abramyan Problem Book](https://open-edu.sfedu.ru/files/Abramyan-ProblemBook.pdf) - PDF
