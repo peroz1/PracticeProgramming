@@ -36,6 +36,7 @@ To propose new resources go to Issues page
   - [Kattis](https://open.kattis.com/)
   - [Advent of Code](http://adventofcode.com/)
   - [Interviewbit](https://www.interviewbit.com/)
+  - [SPOJ](https://www.spoj.com/)
 
 ## Books
   - [Abramyan Problem Book](https://open-edu.sfedu.ru/files/Abramyan-ProblemBook.pdf) - PDF
