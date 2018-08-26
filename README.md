@@ -37,6 +37,7 @@ To propose new resources go to Issues page
   - [Advent of Code](http://adventofcode.com/)
   - [Interviewbit](https://www.interviewbit.com/)
   - [SPOJ](https://www.spoj.com/)
+  - http://web.eecs.utk.edu/~plank/topcoder-writeups/
 
 ## Books
   - [Abramyan Problem Book](https://open-edu.sfedu.ru/files/Abramyan-ProblemBook.pdf) - PDF
